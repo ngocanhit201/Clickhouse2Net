@@ -1,4 +1,7 @@
-
+# Use Entity Framework with ClickHouse in C# .NET
+```
+https://www.youtube.com/watch?v=pRhhen_-iVA&t=8s
+```
 ## Clickhouse for window
 ```
 docker pull clickhouse/clickhouse-server
